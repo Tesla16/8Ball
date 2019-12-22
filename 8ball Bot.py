@@ -36,4 +36,4 @@ async def _8ball(ctx, *,_8ball):
 
 
 
-client.run("NjU4MjQ1MTczOTA1NTg4MjQz.Xf9Bsg.52goiS21fHoIzWNJ3iECswkZt6E")
+client.run("<Token>")
