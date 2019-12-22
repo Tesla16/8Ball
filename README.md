@@ -1,7 +1,7 @@
 # 8Ball
 Magic 8 Ball Discord Bot
 
-Inputs a question and outputs Magic 8 Ball responce
+Inputs a question and outputs Magic 8 Ball response
 
 Must have discord.py to use
 (Recommend the rewrite version)
