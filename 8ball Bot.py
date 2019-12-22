@@ -2,7 +2,7 @@ import discord
 import random
 from discord.ext import commands
 
-client = commands.Bot(command_prefix = 'b.')
+client = commands.Bot(command_prefix = '&')
 
 @client.event
 async def on_ready():
